@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 .container{
-    
+
 }
 h1{
     font-size: 50px;
@@ -27,7 +27,13 @@ h1{
     min-width: 200px;
     border-radius: 10px;
     box-shadow: 0 2px 6px rgb(169, 255, 41);
+    cursor: pointer;
+    text-transform: capitalize;
 }
 .btn:hover{
     color: rgb(231, 36, 36);
+}
+.btn:active{
+    background-size: 105%;
+
 }
