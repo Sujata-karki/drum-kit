@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: tomato;
+}
+#title{
+    font-family: 'Arvo';
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    
+}
+.set{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+button{
+    
+    margin: 3px;
+    font-family: 'Arvo';
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+.w-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/crash.png);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
+.a-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/kick.png);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
+.s-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/snare.png);
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
+.d-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/tom1.png);
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
+.j-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/tom2.png);
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
+.k-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/tom3.png);
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
+.l-drum{
+    margin: 0;
+    margin-right: 10px;
+    background: url(images/tom4.png);
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    background-size: cover;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: 3px solid black;
+}
